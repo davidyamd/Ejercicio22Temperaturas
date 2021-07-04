@@ -1,0 +1,11 @@
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio22_WIKI\bin\Debug\Ejercicio22_WIKI.exe.config
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\bin\Debug\Ejercicio22_WIKI.exe.config
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\bin\Debug\Ejercicio22_WIKI.exe
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\bin\Debug\Ejercicio22_WIKI.pdb
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\bin\Debug\Ejercicio22_WIKI.xml
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\obj\Debug\Ejercicio22_WIKI.Form1.resources
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\obj\Debug\Ejercicio22_WIKI.Resources.resources
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\obj\Debug\Ejercicio22_WIKI.vbproj.GenerateResource.Cache
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\obj\Debug\Ejercicio22_WIKI.exe
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\obj\Debug\Ejercicio22_WIKI.xml
+C:\VISUAL_STUDIO_2012\Ejercicio22_WIKI\obj\Debug\Ejercicio22_WIKI.pdb
